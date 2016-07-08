@@ -17,5 +17,5 @@ window.close()
  
  [&lt;textarea&gt;](/html-textarea.md)
  
- String.prototype.lastIndexOf()
+ String.prototype.lastIndexOf() (in progess)
 
