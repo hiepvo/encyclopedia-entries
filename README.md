@@ -4,9 +4,9 @@
 
 **Jason Rivera**:
 
-&lt;script&gt;
+[&lt;script&gt;](/script-html)
 
-font-size
+[font-size](/css-font-size)
 
 window.close()
 
