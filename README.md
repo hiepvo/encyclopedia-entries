@@ -3,15 +3,19 @@
 ###Glorious-Python
 
 **Jason Rivera**:
-```
-<script>
+
+&lt;script&gt;
+
 font-size
+
 window.close()
-```
+
 
 **Hiep Vo**:
-```
- resize
+
+ [resize](/css-resize.md)
+ 
+ [&lt;textarea&gt;](/html-textarea.md)
+ 
  String.prototype.lastIndexOf()
- <textarea>
-```
+
